@@ -1,0 +1,5 @@
+D = imread('onion.png');
+
+Dred = D(:, :, 1);
+Dgreen = D(:, :, 2);
+Dblue = D(:, :

@@ -2,36 +2,36 @@
 > **Environment Settings**
  
 
-## Linux
+## *Linux*
 
-> ***Install python 3***
-   ` sudo apt-get install python3.7`
-    `sudo apt install python-pip3`
+> ***Install python 3***<br>
+> `sudo apt-get install python3.7`<br>
+> `sudo apt install python-pip3`
 
-> ***Upgrade pip***
+> ***Upgrade pip***<br>
 > `python -m pip install --upgrade pip`
 
-> ***Install Packages***
-> `pip3 install numpy`
->  `pip3 install scipy`
->   `pip3 install matplotlib`
->   `pip3 install scikit-image`
->   `pip3 install opencv-python`
+> ***Install Packages*** <br>
+> `pip3 install numpy` <br>
+>  `pip3 install scipy` <br>
+>   `pip3 install matplotlib` <br>
+>   `pip3 install scikit-image` <br>
+>   `pip3 install opencv-python` 
 
-## Windows
+## *Windows*
 
-#### Install python 3
-[![Python](https://www.python.org/static/img/python-logo.png)](https://www.python.org/downloads/)
+> ***Install python 3***<br>
+>[![Python](https://www.python.org/static/img/python-logo.png)](https://www.python.org/downloads/)
 
 
-> ***Upgrade pip***
+> ***Upgrade pip***> <br>
 > `python -m pip install --upgrade pip`
 
-> ***Install Packages*** 
-> `pip install numpy`
-> `pip install scipy`
-> `pip install matplotlib`
->  `pip install scikit-image`
+> ***Install Packages*** <br>
+> `pip install numpy`<br>
+> `pip install scipy`<br>
+> `pip install matplotlib`<br>
+>  `pip install scikit-image`<br>
 >  `pip install opencv-python`
 
 

@@ -1,5 +1,6 @@
 # Digital-Image-Processing
-> Environment Settings
+> **Environment Settings**
+
 > ***Linux***
 
 > ***Install python 3***

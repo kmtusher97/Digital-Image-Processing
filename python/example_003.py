@@ -1,5 +1,6 @@
 import skimage.io as io
 
+
 def convertImageType():
     originalImage = io.imread('images/bowl_fruit.png')
     io.imsave('images/bowl_fruit.jpeg', originalImage)
@@ -7,6 +8,7 @@ def convertImageType():
     changedImage = io.imread('images/bowl_fruit.jpeg')
     io.imshow(changedImage)
     io.show()
+
 
 convertImageType()
 

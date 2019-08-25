@@ -6,7 +6,7 @@
 
 > ***Install python 3***<br>
 > `sudo apt-get install python3.7`<br>
-> `sudo apt install python-pip3`
+> `sudo apt install python3-pip`
 
 > ***Upgrade pip***<br>
 > `python -m pip install --upgrade pip`
